@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    width: 1425px;
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+}
+
+.content {
+    width: 1425px;
+    height: 650px;
+    /* background-color: blue; */
+}
+
+hr {
+    width: 1425px;
+    border: 1px dotted #000000;
+    border-style: none none dotted; 
+    color: transparent; 
+    background-color: transparent;
+}
